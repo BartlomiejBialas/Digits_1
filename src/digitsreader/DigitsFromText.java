@@ -13,5 +13,6 @@ public class DigitsFromText {
         accountList.readFromFile();
         accountList.searchForDigits();
         accountList.printReport();
+        System.out.println("Github");
     }
 }
