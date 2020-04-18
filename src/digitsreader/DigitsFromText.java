@@ -13,7 +13,5 @@ public class DigitsFromText {
         accountList.readFromFile();
         accountList.searchForDigits();
         accountList.printReport();
-        System.out.println("Github xx");
-        System.out.println("Github second");
     }
 }
