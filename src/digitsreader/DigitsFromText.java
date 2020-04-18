@@ -13,6 +13,6 @@ public class DigitsFromText {
         accountList.readFromFile();
         accountList.searchForDigits();
         accountList.printReport();
-        System.out.println("Github2");
+        System.out.println("Github");
     }
 }
